@@ -4,7 +4,13 @@
 
 
 <h3>Languages and Tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,materialui,nodejs,mysql,express,postgres,postman&perline=6)](https://skillicons.dev)
+
+#### Front End
+[![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,materialui&theme=light)](https://skills.thijs.gg)
+#### Back End
+[![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,mysql,postgres&theme=light)](https://skills.thijs.gg)
+#### Miscellaneous
+[![Miscellaneous-Skills](https://skills.thijs.gg/icons?i=git,github,figma&theme=light)](https://skills.thijs.gg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/remyamm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/remyamm/" height="30" width="40" /></a>
