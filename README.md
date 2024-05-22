@@ -4,8 +4,6 @@
 
 
 <h3>Languages and Tools</h3>
-
-#### Front End
  <img src="https://skillicons.dev/icons?i=html,css,react,js,ts,nodejs,express,github,materialui,mysql,postman,vscode&perline=5" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
