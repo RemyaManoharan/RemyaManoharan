@@ -6,6 +6,7 @@
 <h3>Languages and Tools</h3>
 
 #### Front End
+ <img src="https://skillicons.dev/icons?i=css,express,firebase,github,html,js,materialui,mysql,nodejs,postman,react,ts,vite,vscode&perline=5" />
 [![Front-End-Skills](https://skills.thijs.gg/icons?i=ts,js,react,materialui&theme=light)](https://skills.thijs.gg)
 #### Back End
 [![Back-End-Skills](https://skills.thijs.gg/icons?i=nodejs,express,mysql,postgres&theme=light)](https://skills.thijs.gg)
